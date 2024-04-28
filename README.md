@@ -12,3 +12,7 @@ Instrumentpaneler
 Användning
 Ladda ner Excel-filen för att öva på olika Excel-funktioner och tekniker som presenteras.
 
+
+
+källor:
+https://www.youtube.com/watch?v=m13o5aqeCbM
