@@ -1,5 +1,5 @@
 # coffee-Sales
-excel-project
+excel-project for training
 Om
 Detta repository innehåller en Excel-fil skapad för ett Excel-tutorialprojekt.
 
